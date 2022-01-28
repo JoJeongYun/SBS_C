@@ -15,6 +15,15 @@
 
 int main(void){
 
+int x = 1;
+int y = 2;
+
+swap(&x, &y);
+printf("x: %d, y: %d\n", x,y);
+
+void swap(){
+    
+}
     
 
 
